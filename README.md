@@ -16,6 +16,7 @@ Exercícios escolhidos:
 
 - [Labirinto - 1621](https://www.beecrowd.com.br/repository/UOJ_1621.html)
 - [Brazilian Metro - 1698](https://www.beecrowd.com.br/judge/en/problems/view/1698)
+- [Knight Moves - 1100](https://www.beecrowd.com.br/judge/en/problems/view/1100)
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
