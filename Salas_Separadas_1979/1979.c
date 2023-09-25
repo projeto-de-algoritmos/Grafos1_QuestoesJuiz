@@ -17,7 +17,7 @@ int main() {
         for (int i = 0; i < n; i++) {
             int x;
             scanf("%d", &x);
-            getchar();  // Consume the newline character
+            getchar();
 
             char q[100000];
             fgets(q, sizeof(q), stdin);
@@ -59,11 +59,11 @@ int main() {
                         }
                     }
 
-                    if (!flag) break;
+                    if (!flag) break; // Se a bandeira for falsa, sai do loop
                 }
             }
 
-            if (!flag) break;
+            if (!flag) break; // Se a bandeira for falsa, sai do loop externo
         }
 
         if (flag)
