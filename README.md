@@ -28,7 +28,7 @@ Exercícios escolhidos:
 
 ## Link da apresentação
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/xq7s_652XGw" title="Reunião 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+https://www.youtube.com/watch?v=xq7s_652XGw
 
 ## Instalação 
 **Linguagem**: C<br>
