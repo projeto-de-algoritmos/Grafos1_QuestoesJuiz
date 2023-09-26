@@ -15,14 +15,20 @@ Exercícios do Beecrowd com nível 5 ou mais.
 Exercícios escolhidos:
 
 - [Labirinto - 1621](https://www.beecrowd.com.br/repository/UOJ_1621.html)
-- [Brazilian Metro - 1698](https://www.beecrowd.com.br/judge/en/problems/view/1698)
+- [See World - 1955](https://www.beecrowd.com.br/judge/en/problems/view/1955)
 - [Knight Moves - 1100](https://www.beecrowd.com.br/judge/en/problems/view/1100)
 - [Salas Separadas - 1979](https://www.beecrowd.com.br/repository/UOJ_1979.html)
 
 ## Screenshots
 
 ![Accepted 1621](Labirinto_1621/img/1621.jpeg)
+![Accepted 1100](Knight_Moves_1100\img\1100.jpeg)
 ![Accepted 1979](Salas_Separadas_1979/img/1979.png)
+![80% 1955](See_World_1955/img/1955.png)
+
+## Link da apresentação
+
+https://www.youtube.com/embed/xq7s_652XGw
 
 ## Instalação 
 **Linguagem**: C<br>
