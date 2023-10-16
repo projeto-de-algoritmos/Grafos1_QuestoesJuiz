@@ -27,15 +27,13 @@ Exercícios escolhidos:
 ![80% 1955](See_World_1955/img/1955.png)
 
 ## Link da apresentação
-
+O arquivo do vídeo está presente [aqui](./videoApresentacao_Grafos1.mp4)
 https://www.youtube.com/watch?v=xq7s_652XGw
 
 ## Instalação 
 **Linguagem**: C<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+[Tutorial de instalação](https://learn.microsoft.com/pt-br/cpp/build/vscpp-step-0-installation?view=msvc-170)
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para testar os códigos, você pode copiá-los e os inserir em seus respectivos links do [beecrowd](https://www.beecrowd.com.br/judge/en/login), disponíveis nas pastas de cada problema.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
