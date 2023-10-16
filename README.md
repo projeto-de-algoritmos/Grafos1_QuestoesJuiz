@@ -22,12 +22,15 @@ Exercícios escolhidos:
 ## Screenshots
 
 ![Accepted 1621](Labirinto_1621/img/1621.jpeg)
-![Accepted 1100](Knight_Moves_1100\img\1100.jpeg)
+![Accepted 1100](Knight_Moves_1100/img/1100.jpeg)
 ![Accepted 1979](Salas_Separadas_1979/img/1979.png)
 ![80% 1955](See_World_1955/img/1955.png)
 
 ## Link da apresentação
-O arquivo do vídeo está presente [aqui](./videoApresentacao_Grafos1.mp4)
+O arquivo do vídeo está presente [aqui](./videoApresentacao_Grafos1.mp4).
+
+Ou pode acessá-lo pelo link:
+
 https://www.youtube.com/watch?v=xq7s_652XGw
 
 ## Instalação 
